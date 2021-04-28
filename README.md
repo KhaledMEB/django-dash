@@ -1,2 +1,2 @@
 # django-dash
-A simple dashboard made with Django
+A simple dashboard made with Django and Flexmonster
